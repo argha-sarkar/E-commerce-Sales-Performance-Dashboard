@@ -36,37 +36,11 @@ To run this project, you will need to add the following environment variables to
 
 `POwer BI`
 
-
-## Tech Stack
-
-**Client:** Python, Mysql, Excel
-
-**Server:** Jupyter Notebook
-
-
 ## Installation
-* First python install on your pc/laptop 
-* Pip enviroment install on your python setup or you can install conda (Anaconda Enviroment) 
-* Install Mysql
+* First Power Bi install on your pc/laptop 
 * Install Microsoft Excel
 
-Install Pandas
-```bash
-  pip install pandas 
-```
-Install Numpy
-```bash
-  pip install numpy 
-```
-Install Matplotlib
-```bash
-  pip install matplotlib 
-```
-Install Seaborn
-```bash
-  pip install seaborn 
-```
-    
+  
 ## Share Screen
 
 ![[image alt text]](https://raw.githubusercontent.com/argha-sarkar/E-commerce-Sales-Performance-Dashboard/main/Screenshot%20(308).png)]
