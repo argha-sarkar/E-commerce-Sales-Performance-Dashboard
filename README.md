@@ -33,7 +33,7 @@ To run this project, you will need to add the following environment variables to
   
 ## Share Screen
 
-![[image alt text]](https://raw.githubusercontent.com/argha-sarkar/E-commerce-Sales-Performance-Dashboard/main/Screenshot%20(308).png)]
+![[image alt text]](https://raw.githubusercontent.com/argha-sarkar/E-commerce-Sales-Performance-Dashboard/main/Screenshot%20(308).png)
 
 
 ## Documentation
