@@ -10,9 +10,7 @@ Here are some online fraud detection portfolio projects that you can consider:
 
 
 ## Table of Contents:
-* Badges
 * Environment Variables
-* Tech
 * Installation
 * Share Screen
 * Documentation
