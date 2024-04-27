@@ -29,10 +29,8 @@ Here are some online fraud detection portfolio projects that you can consider:
 
 To run this project, you will need to add the following environment variables to your .env file
 
-`Windows or Linux` ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-
-
-`Power BI` ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## Installation
 * First Power Bi install on your pc/laptop 
