@@ -1,6 +1,6 @@
 # E-commerce-Sales-Performance-Dashboard
 
-E-commerce-Sales-Performance-Dashboard is a critical component of any e-commerce or financial services business. By identifying and preventing fraudulent transactions, businesses can protect their customers and their bottom line. 
+E-commerce Sales Performance Dashboard is a critical component of any e-commerce or financial services business. By identifying and preventing fraudulent transactions, businesses can protect their customers and their bottom line. 
 
 Here are some online fraud detection portfolio projects that you can consider:
 
@@ -34,7 +34,7 @@ To run this project, you will need to add the following environment variables to
 
 `Windows or Linux`
 
-`POwer BI`
+`Power BI`
 
 ## Installation
 * First Power Bi install on your pc/laptop 
