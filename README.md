@@ -24,9 +24,7 @@ Here are some online fraud detection portfolio projects that you can consider:
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/argha-sarkar/Online_fraud_detection-Data-Analyst/blob/main/LICENSE/)
-
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
 
