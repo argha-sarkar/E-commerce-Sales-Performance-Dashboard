@@ -26,6 +26,9 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/argha-sarkar/Online_fraud_detection-Data-Analyst/blob/main/LICENSE/)
 
+![Power BI](https://img.shields.io/badge/Power%20BI?style=flat&logo=Power%20BI&logoColor=Yellow&logoSize=auto&labelColor=Green&color=Yellow)
+
+
 
 
 ## Environment Variables
