@@ -25,6 +25,13 @@
 
 E-commerce Sales Performance Dashboard is a critical component of any e-commerce or financial services business. With this dashboard, I can track a lot of things, like how much profit in any month, whose amount is the highest, category-wise how much percentage quantity is stored, etc. 
 
+With the help of this project, we learn many things -
+* Engineered an interactive dashboard for dynamic tracking and in-depth analysis of online sales data.
+* Implemented intricate parameters, utilizing advanced filters and slicers for detailed worksheet drill-downs.
+* Established robust connections, integrated new tables, and executed tailored data manipulations, empowering user-driven parameterization for diverse visualizations.
+* Crafted a visually rich landscape employing customized charts (bar, pie, clustered bar, line) and dynamic slicers.
+
+
 ## Table of Contents:
 * Environment Variables
 * Installation
@@ -57,7 +64,6 @@ To run this project, you will need to add the following environment variables to
 
 
 
-# Hi, I'm Argha! 👋
 
 
 ## 🔗 Links
