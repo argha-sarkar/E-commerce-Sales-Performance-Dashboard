@@ -23,14 +23,7 @@
   </p>
 </div>
 
-E-commerce Sales Performance Dashboard is a critical component of any e-commerce or financial services business. By identifying and preventing fraudulent transactions, businesses can protect their customers and their bottom line. 
-
-Here are some online fraud detection portfolio projects that you can consider:
-
-* Credit card fraud detection: This is a classic example of online fraud detection. The goal is to identify fraudulent credit card transactions.
-* E-commerce fraud detection: This type of fraud detection is concerned with identifying fraudulent transactions in e-commerce settings. This includes things like fake orders, shipping address fraud, and credit card fraud.
-* Payment fraud detection: This type of fraud detection is concerned with identifying fraudulent transactions in payment systems. This includes things like unauthorized payments, duplicate payments, and chargebacks.
-
+E-commerce Sales Performance Dashboard is a critical component of any e-commerce or financial services business. With this dashboard, I can track a lot of things, like how much profit in any month, whose amount is the highest, category-wise how much percentage quantity is stored, etc. 
 
 ## Table of Contents:
 * Environment Variables
@@ -61,6 +54,7 @@ To run this project, you will need to add the following environment variables to
 ## Documentation
 
 [Documentation](https://linktodocumentation)
+
 
 
 # Hi, I'm Argha! 👋
